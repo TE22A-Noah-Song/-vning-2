@@ -1,0 +1,29 @@
+.total{
+text-align: center;
+border: 2px solid black;
+}
+
+.bakgrund{
+border: 2px solid #D6001C;
+background-image: url(/bilder/snow_winter_trees.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+min-height: 200px;
+margin: 25px;
+}
+
+.top{
+border: 2px solid #D6001C;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+.ett,.två,.tre{
+border: 2px solid black;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+width: 1px;
+height: 30px;
+}
